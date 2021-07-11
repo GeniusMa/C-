@@ -1,0 +1,3 @@
+﻿  main.c
+e:\vs project\2021.7.11\2021.7.11\main.c(57): warning C4047: “初始化”:“int *”与“int (*)[10]”的间接级别不同
+  2021.7.11.vcxproj -> E:\VS project\2021.7.11\Debug\2021.7.11.exe

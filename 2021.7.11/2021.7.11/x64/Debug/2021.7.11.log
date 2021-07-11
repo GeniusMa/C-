@@ -1,0 +1,10 @@
+﻿  main.c
+e:\vs project\2021.7.11\2021.7.11\main.c(14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  e:\vs project\2021.7.11\2021.7.11\main.c(14): note: 请考虑在格式字符串中使用“%zd”
+e:\vs project\2021.7.11\2021.7.11\main.c(15): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  e:\vs project\2021.7.11\2021.7.11\main.c(15): note: 请考虑在格式字符串中使用“%zd”
+e:\vs project\2021.7.11\2021.7.11\main.c(16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  e:\vs project\2021.7.11\2021.7.11\main.c(16): note: 请考虑在格式字符串中使用“%zd”
+e:\vs project\2021.7.11\2021.7.11\main.c(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  e:\vs project\2021.7.11\2021.7.11\main.c(17): note: 请考虑在格式字符串中使用“%zd”
+  2021.7.11.vcxproj -> E:\VS project\2021.7.11\x64\Debug\2021.7.11.exe
