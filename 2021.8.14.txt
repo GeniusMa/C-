@@ -1,0 +1,70 @@
+#define _CRT_SECURE_NO_WARNINGS 1
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
+int Add(int a, int b) 
+{
+	int c = a + b;
+	return c;
+}
+
+int main() 
+{
+	int a = 1;
+	int b = 2;
+	printf("%d+%d=%d \n", a, b, Add(a, b));
+	printf("%p\n", Add);
+	printf("%p\n", &Add);//&函数名和函数名都是函数的地址
+
+
+	int (*pa)(int, int) = Add;//函数指针
+	printf("%d\n", (*pa)(2, 3));//函数指针的使用
+	
+
+
+	return 0;
+}
+
+
+
+//void Print(char* str) 
+//{
+//	printf("%s\n", str);
+//}
+//
+//int main() 
+//{
+//	void(*p)(char*) = Print;
+//	(*p)("olofmeister");
+//	return 0;
+//}
+
+
+
+//void(*   signal(int, void(*)(int))    )(int);
+//
+//
+//
+//typedef void(*pfun_t)(int);//简化
+//pfun_t signal(int, pfun_t);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************************
+                   马海淇
+                 o1ofmeister
+**********************************************/
