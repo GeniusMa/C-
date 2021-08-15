@@ -1,0 +1,3 @@
+﻿  main.c
+e:\vs project\2021.8.15\2021.8.15\main.c(29): warning C4101: “arr”: 未引用的局部变量
+  2021.8.15.vcxproj -> E:\VS project\2021.8.15\Debug\2021.8.15.exe
