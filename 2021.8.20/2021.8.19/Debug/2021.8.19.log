@@ -1,0 +1,4 @@
+﻿  main.c
+e:\vs project\2021.8.19\2021.8.19\main.c(64): warning C4098: “cmp_int”:“void”函数返回值
+e:\vs project\2021.8.19\2021.8.19\main.c(73): warning C4133: “函数”: 从“void (__cdecl *)(const void *,const void *)”到“_CoreCrtNonSecureSearchSortCompareFunction”的类型不兼容
+  2021.8.19.vcxproj -> E:\VS project\2021.8.19\Debug\2021.8.19.exe
