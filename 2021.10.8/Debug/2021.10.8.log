@@ -1,0 +1,3 @@
+﻿  main.c
+G:\VS Projiect\2021.10.8\main.c(37,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“unsigned long”
+  2021.10.8.vcxproj -> G:\VS Projiect\2021.10.8\Debug\2021.10.8.exe
