@@ -1,0 +1,4 @@
+﻿  main.c
+G:\VS Projiect\2021.10.8(2)\main.c(34,7): warning C4048: “int (*)[4]”和“int (*)[5]”数组的下标不同
+G:\VS Projiect\2021.10.8(2)\main.c(35,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+  2021.10.8(2).vcxproj -> G:\VS Projiect\2021.10.8(2)\Debug\2021.10.8(2).exe
