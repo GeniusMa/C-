@@ -1,0 +1,10 @@
+﻿  main.c
+G:\VS Projiect\2021.10.18\main.c(28,18): warning C4047: “return”:“int”与“const char *”的间接级别不同
+G:\VS Projiect\2021.10.18\main.c(33,16): warning C4090: “=”: 不同的“const”限定符
+G:\VS Projiect\2021.10.18\main.c(41,23): warning C4047: “return”:“int”与“char *”的间接级别不同
+G:\VS Projiect\2021.10.18\main.c(23,1): warning C4090: “初始化”: 不同的“const”限定符
+G:\VS Projiect\2021.10.18\main.c(24,1): warning C4090: “初始化”: 不同的“const”限定符
+G:\VS Projiect\2021.10.18\main.c(25,1): warning C4090: “初始化”: 不同的“const”限定符
+G:\VS Projiect\2021.10.18\main.c(52,1): warning C4047: “初始化”:“char *”与“int”的间接级别不同
+G:\VS Projiect\2021.10.18\main.c(45): warning C4715: “my_strstr”: 不是所有的控件路径都返回值
+  2021.10.18.vcxproj -> G:\VS Projiect\2021.10.18\Debug\2021.10.18.exe
